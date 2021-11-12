@@ -69,3 +69,7 @@ class SortedSet(Sequence, Set):
     def ddd(self):
         pass
 
+    def ddd(self):
+        pass
+
+
