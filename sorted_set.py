@@ -67,4 +67,5 @@ class SortedSet(Sequence, Set):
         return self - SortedSet(iterable)
 
     def ddd(self):
+        pass
 
