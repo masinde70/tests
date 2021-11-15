@@ -66,10 +66,4 @@ class SortedSet(Sequence, Set):
     def difference(self, iterable):
         return self - SortedSet(iterable)
 
-    def ddd(self):
-        pass
-
-    def ddd(self):
-        pass
-
 
